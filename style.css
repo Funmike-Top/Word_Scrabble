@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+
+ body {
+    background-image: url('/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Game{
+    text-align:center ;
+    font-family: Honk;
+    font-size: 4rem;
+}
+input{
+    margin: 30px auto;
+    display: block;
+    padding: 20px;
+    font-size: 24px;
+    background-color: burlywood;
+    color: aliceblue;
+    border-radius: 20px;
+}
+.Button{
+    background-color: green;
+    font-size:18px ;
+}
+.button:hover{
+padding:25px;
+background-color: darkgreen;
+transition: all 3s ease-out;
+}
+.word{
+    text-align: center;
+    color: chartreuse;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 7px;
+}

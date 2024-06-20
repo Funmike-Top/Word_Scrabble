@@ -1,0 +1,80 @@
+body {
+    background-image: url('background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    background-image: url('logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 250px;
+    margin-bottom: 700px;
+    top: 60%;
+    margin-left: 459px;
+
+    
+}
+.adi{
+    color: white;
+    margin-left: -70px;
+    position: relative; top: 250px;
+    font-size: 50px;
+}
+.user{
+
+    position:relative; left: -21px; top:-640px;
+    margin: 30px auto;
+    display: block;
+    padding: 15px;
+    font-size: 19px;
+    background-color: transparent;
+    border-radius: 9px;
+    
+}
+.avi{
+    position:relative; left: -21px; top:-659px;
+    margin: 30px auto;
+    display: block;
+    padding: 15px;
+    font-size: 19px;
+    background-color: transparent;
+    border-radius: 9px;
+ 
+}
+.Button{
+    position:relative; left: -21px; top:-679px;
+    margin: 30px auto;
+    display: block;
+    padding: 15px;
+    font-size: 19px;
+    background-color: white;
+    border-radius: 9px;
+}
+.amy{
+    position:relative; left: -99px; top:-689px;
+    margin: -2px auto;
+    text-align: center;
+    font-size: 14px;
+    background-color: transparent;
+    color: white;
+    text-decoration: underline;
+
+}
+.Account{
+    position:relative; left: -76px; top:-702px;
+    margin: -2px auto;
+    text-align: center;
+    font-size: 14px;
+    background-color: transparent;
+    color: white;
+}
+.Create{
+    position:relative; left: 43px; top:-715px;
+    margin: -2px auto;
+    text-align: center;
+    font-size: 14px;
+    background-color: transparent;
+    color: white;
+    text-decoration: underline;
+    font-weight: 200;
+}
